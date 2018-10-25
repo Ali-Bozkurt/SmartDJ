@@ -1,0 +1,3 @@
+﻿  BodyBasics.cpp
+c:\users\s2k\documents\kinectcode\bodybasics-d2d\bodybasics.cpp(400): warning C4553: '==': result of expression not used; did you intend '='?
+  BodyBasics-D2D.vcxproj -> C:\Users\s2k\Documents\kinectcode\BodyBasics-D2D\Debug\BodyBasics-D2D.exe
